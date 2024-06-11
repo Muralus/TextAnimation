@@ -1,0 +1,33 @@
+:root {
+  --clr: rgb(66, 16, 64);
+}
+
+div {
+  position: relative;
+  font-size: 5rem;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  line-height: 80px;
+  cursor: pointer;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.text {
+  color: transparent;
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.6);
+  transition: 0.1s ease;
+  transition-delay: 0.25s;
+}
+
+.hover-text {
+  position: absolute;
+  inset: 0;
+  width: 0%;
+  color: var(--clr);
+  overflow: hidden;
+  border-right: 6px solid var(--clr);
+  transition: 0.5s ease-in-out;
+}
+div:hover .hover-text {
+  width: 21%;
+}
