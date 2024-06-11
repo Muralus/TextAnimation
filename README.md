@@ -1,17 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" type="text/css" href="style/estilos.css">
-</head>
 
-<body>
-  <div>
-    <span class="text">&nbsp;Gear 5&nbsp;</span>
-    <span class="hover-text">&nbsp;Gear 5&nbsp;</span>
-  </div>
-</body>
 
-</html>
+https://github.com/Muralus/TextAnimation/assets/62966475/497b389a-248f-4853-aa49-59098b216aea
+
