@@ -1,2 +1,0 @@
-# TextAnimation
-Uso de 
